@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TeduShop.Web"
+    "\\TeduShop.Web",
+    "\\TeduShop.Web\\obj"
   ],
+  "SelectedNode": "\\TeduShop.sln",
   "PreviewInSolutionExplorer": false
 }
